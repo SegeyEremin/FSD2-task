@@ -1,0 +1,26 @@
+{
+  "name": "fsd2-task",
+  "version": "1.0.0",
+  "description": "Верстка страниц по поиску номеров в отеле (тестовое задание)\r https://segeyeremin.github.io/FSD2-task/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergey-eremin/fsd2-task.git"
+  },
+  "author": "Sergey Eremin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergey-eremin/fsd2-task/issues"
+  },
+  "homepage": "https://github.com/sergey-eremin/fsd2-task#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "pug": "^2.0.4"
+  }
+}
